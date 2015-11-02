@@ -1,0 +1,13 @@
+# Keys
+keys.bountyboard.category=NPC Job Board
+keys.bountyboard.charge=Charge
+keys.bountyboard.release=Release
+
+# Creative Tabs
+itemGroup.bountyboard=Npc Job Board
+
+# Items
+item.bountyboard:test.name=Test
+
+#Blocks
+tile.bountyboard:foo.name=Foo

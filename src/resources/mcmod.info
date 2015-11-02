@@ -1,0 +1,23 @@
+[
+{
+    "modid"         : "BountyBoard",
+    "name"          : "Bounty Board",
+    "description"   : "Stop searching for villagers. Make villagers search for you!",
+    "version"       : "1.0",
+    "mcversion"     : "1.7.10",
+    "url"           : "",
+    "updateUrl"     : "",
+    "authorList"    : [
+        "AlexVanLeyen",
+        "Chammy"
+    ],
+    "credits"       : "",
+    "logoFile"      : "",
+    "screenshots"   : [
+        ""
+    ],
+    "parent"        : "",
+    "dependencies"  : [
+    ]
+}
+]

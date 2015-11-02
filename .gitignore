@@ -1,0 +1,19 @@
+# Files to NOT INCLUDE in your project:
+.iml
+.ipr
+.iws
+.classpath
+.project
+gradle*
+
+# directories to not include
+/.git/
+/.gradle/
+/.setting/
+/build/
+/eclipse/
+/gradle/
+/bin/
+
+# Files to include
+!build.gradle
