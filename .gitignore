@@ -17,3 +17,6 @@ gradle*
 
 # Files to include
 !build.gradle
+/BountyBoard.iml
+/BountyBoard.iws
+/BountyBoard.ipr
